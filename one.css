@@ -1,0 +1,76 @@
+/* estilos para onepiece*/
+* {
+  margin: 0;
+}
+body {
+  background-color: rgb(18, 18, 19);
+  color: rgb(235, 213, 197);
+}
+header {
+  display: flex;
+  width: 90%;
+  height: 20vh;
+  margin: 15px;
+  align-items: center;
+  font-family: Monaco;
+  padding-top: 5px;
+  text-align: center;
+}
+h1 {
+  margin-top: 80px;
+  text-align: center;
+  color: #0d70cd;
+  font-size: 60px;
+}
+.logo {
+  margin: 5px;
+  width: 20%;
+  height: 155px;
+  float: left;
+  padding-left: 5px;
+}
+.menu {
+  position: absolute;
+  right: 50px;
+}
+
+.menu a {
+  color: #3b46c0;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 32px;
+  margin-left: 70px;
+  transition: color 1s;
+  /*text-transform: uppercase;*/
+}
+
+.menu a:hover {
+  color: #ccb6af;
+  opacity: 0.5;
+}
+.caja {
+  background-color: rgb(44, 47, 48);
+  padding: 20px;
+  margin: 10px;
+}
+h2 {
+  font-size: 35px;
+  color: cornflowerblue;
+}
+p {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  text-align: justify;
+  font-size: 30px;
+}
+.caja2 {
+  background-color: rgb(8, 8, 77);
+  padding: 20px;
+}
+.pie {
+  background-color: rgb(4, 4, 95);
+  margin: 10px;
+  padding: 10px;
+  font-size: 12px;
+  font-weight: 800;
+}

@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chocolates</title>
+  </head>
+  <body>
+    <header>
+      <h1>Bopsy Chocolates</h1>
+      <nav>
+        <li><a href="#ori">Origen</a></li>
+        <li><a href="#cult">Cultura</a></li>
+        <li><a href="#prod">Productos</a></li>
+        <li><a href="#donde">Donde Comprar</a></li>
+        <li><a href="#visit">Visitanos</a></li>
+      </nav>
+    </header>
+    <section>
+      <a id="ori"></a>
+      <h2>Origen</h2>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+      </p>
+      <a id="cult"></a>
+      <h2>Cultura</h2>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+      </p>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+      </p>
+      <a id="prod"></a>
+      <h2>Productos</h2>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+        <br />
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda a
+        fugiat quos, dolorum explicabo dolore ratione itaque, autem quo quod
+        debitis, quas neque eveniet cum. A alias error ipsam sit?
+      </p>
+      <a id="donde"></a>
+      <h2>Donde</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, quae.
+        Unde veniam sequi alias adipisci cupiditate porro possimus, non sint,
+        esse explicabo deserunt a iste ullam illo magni labore magnam! Lorem
+        ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus
+        voluptas vitae, aut animi quisquam quos natus odio iste pariatur
+        aspernatur nam sapiente, assumenda nisi ipsa similique fugiat
+        perspiciatis quam dolorum.
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
+        neque eveniet expedita quia a libero quis commodi atque magnam, eum
+        nemo. Reiciendis consequuntur eos eligendi necessitatibus magni, vitae
+        consequatur iure? Repellat dolorum fugit rem. Laboriosam non praesentium
+        impedit laudantium at iusto quod? Sint cupiditate voluptatum excepturi,
+        officia quidem aspernatur suscipit quam ipsa repellat iure earum hic!
+        Quod quos et magni. Illum quaerat, error distinctio ratione magni
+        tenetur pariatur molestias. Unde distinctio amet quasi eos, veritatis
+        corporis, cupiditate libero quia ipsum accusantium, laudantium fuga!
+        Ducimus, excepturi incidunt vitae exercitationem ad eos! Inventore
+        eligendi voluptatibus vitae natus distinctio dignissimos rem, fugit
+        obcaecati debitis quaerat ducimus laboriosam quis quos fugiat. Enim quia
+        dignissimos consequuntur eum id maxime officiis quos! Placeat facere
+        accusantium corrupti? Consectetur reiciendis odit eius. Vel quasi
+        dignissimos commodi id. Repudiandae asperiores nihil ab dignissimos
+        maxime necessitatibus cumque doloribus sed. Voluptas accusantium quasi
+        vero deserunt reiciendis doloribus dolor quas soluta quaerat.
+      </p>
+      <a id="visit"></a>
+      <h2>Visitamos</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
+        voluptas est magnam provident laborum consectetur, dolorum ullam
+        similique deserunt? Reprehenderit sint vitae sit. Quod assumenda alias
+        minus suscipit enim at. Non nemo minima placeat omnis tenetur doloribus
+        maiores! Officia expedita dolor ut at laboriosam nemo incidunt corporis
+        quisquam fugit, similique dolore ipsam molestias, voluptatum,
+        voluptatibus dolorem? Culpa illum sint quaerat. Ea qui aliquam dolorem
+        tempora quaerat nemo similique rerum officia doloremque quod excepturi a
+        sapiente accusamus ad in, ex distinctio praesentium voluptatum
+        consequuntur ratione. Rerum corporis iusto maxime expedita officia!
+        Dolores alias facere itaque nesciunt amet natus fuga. Omnis eligendi
+        sapiente laborum nemo placeat corrupti vitae, odit libero veniam ut,
+        possimus repellat nobis voluptatem deserunt quibusdam cupiditate quos
+        quae pariatur. Totam, delectus perferendis exercitationem quam
+        doloremque sapiente accusamus possimus, ex expedita vero incidunt
+        consequuntur corporis repellendus nisi temporibus? Recusandae
+        praesentium error laboriosam cum omnis nihil sunt et magni consequuntur
+        fugiat! Possimus, quis. Harum laboriosam quas laborum voluptatum, sunt
+        veritatis voluptas dolor dolorem magni, nisi, vel soluta? Nobis ipsam
+        odio repudiandae, reiciendis, incidunt maiores consequuntur alias qui
+        laborum accusamus tempore sunt? Quibusdam saepe facere nesciunt sapiente
+        architecto? Ipsam sed, perspiciatis iure possimus aut, similique unde ea
+        itaque neque pariatur quibusdam voluptate maiores, consectetur officia?
+        Repudiandae quia explicabo nisi itaque maxime praesentium. Explicabo aut
+        vero omnis aliquam voluptate nisi repudiandae pariatur ut voluptatum
+        nam. Ut incidunt earum laboriosam, non ea nihil voluptate nulla, sunt
+        totam dolorem fuga doloremque beatae reiciendis perferendis officiis.
+        Aut maiores est ad delectus ut sapiente sunt molestias expedita quidem
+        aperiam, maxime et esse illo. Cumque repudiandae aut quia libero, quas
+        magnam dolorum neque, architecto sit quam inventore deserunt. Debitis
+        magnam veritatis alias maiores blanditiis veniam praesentium. Temporibus
+        expedita obcaecati, perspiciatis, eligendi officiis harum possimus
+        similique, mollitia ullam explicabo corporis eveniet sequi. Deleniti,
+        ipsam quod assumenda sequi officia dignissimos?
+      </p>
+    </section>
+    <footer>Pie de Pagina</footer>
+  </body>
+</html>
